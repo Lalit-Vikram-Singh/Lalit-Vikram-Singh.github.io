@@ -1,0 +1,13 @@
+.navbarModification {
+	margin-bottom: 2px;
+	background: rgb(0, 0, 0); /* Fallback color */
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.main {
+	width: 100%;
+	border: 2px solid green;
+	margin: 2px solid green;
+	height: 80px;
+	background-color: coral;
+}
