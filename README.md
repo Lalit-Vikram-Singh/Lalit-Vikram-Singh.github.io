@@ -1,7 +1,7 @@
 # lalitv92.github.io
 # [Jekyll](https://jekyllrb.com/)
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
+Gem Version(https://img.shields.io/gem/v/jekyll.svg)
 [![Linux Build Status](https://img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build)][travis]
 [![Windows Build status](https://img.shields.io/appveyor/ci/jekyll/jekyll/master.svg?label=Windows%20build)][appveyor]
 [![Maintainability](https://api.codeclimate.com/v1/badges/8ba0cb5b17bb9848e128/maintainability)][codeclimate]
