@@ -132,3 +132,7 @@ b.light-color{ color: #444; }
 	
 .main-area .social-btn > li > a:hover:after{ transform: translateX(100%); }
 
+
+.audio-area{position: absolute; top: 20px; bottom: 0;left: 100; right: 0;}
+
+
