@@ -1,4 +1,4 @@
-# lalitv92.github.io
+# Lalit-Vikram-Singh.github.io
 # [Jekyll](https://jekyllrb.com/)
 
 [![Linux Build Status](https://img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build)][travis]
